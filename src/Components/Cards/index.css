@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,500&family=Raleway:wght@100;400;500&display=swap');
+
+
+
+
+.cards{
+    width: 15%;
+    height: 100%;
+    background-color: #D9D9D9;
+    padding: 20px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 5%;
+}
+
+.titulo_text{
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.instruction_text{
+    font-family: Montserrat;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 12px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 5%;
+}
+
+.text_box{
+    margin-top: 5%;
+    padding: 10%;
+    background-color: white;
+    height: 50%;
+}
+
+.divBotoes{
+    display: flex;
+    padding: 10%;
+    align-items: center;
+    justify-content: center;
+    
+}
